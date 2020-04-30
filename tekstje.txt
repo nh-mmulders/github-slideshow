@@ -1,0 +1,13 @@
+_config.yml
+_includes/
+_layouts/
+_posts/
+Gemfile
+Gemfile.lock
+index.html
+LICENSE
+node_modules/
+package-lock.json
+README.md
+script/
+tekstje.txt
